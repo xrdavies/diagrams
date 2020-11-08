@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T16:58:48.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="nsfwrmCCi4YbPgep3nLL" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T08:31:26.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="qtS0gSXKwhT4O-ar9mWd" version="13.9.2" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="2371" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="dQPvW1LIH_hYdUgcrzJX-11" value="&lt;span style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;DAO&lt;br&gt;Governor&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="dQPvW1LIH_hYdUgcrzJX-40" vertex="1">
           <mxGeometry x="13.670000000000073" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dQPvW1LIH_hYdUgcrzJX-41" value="&lt;span style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;Sub DAO&lt;br&gt;Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="dQPvW1LIH_hYdUgcrzJX-41" value="&lt;span style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;SubDAO&lt;br&gt;Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="1074.3" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dQPvW1LIH_hYdUgcrzJX-51" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dashedArrowlessEdge;fillColor=#000000;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;flipV=1;" parent="1" vertex="1">
@@ -217,16 +217,16 @@
         <mxCell id="dQPvW1LIH_hYdUgcrzJX-88" value="&lt;span style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;DApp&lt;br&gt;User&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="dQPvW1LIH_hYdUgcrzJX-89" vertex="1">
           <mxGeometry x="14.850000000000136" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7URtmlx7mKb1edq9orLI-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="7URtmlx7mKb1edq9orLI-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1010" y="650" width="143" height="207" as="geometry" />
         </mxCell>
-        <mxCell id="7URtmlx7mKb1edq9orLI-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" vertex="1" parent="7URtmlx7mKb1edq9orLI-1">
+        <mxCell id="7URtmlx7mKb1edq9orLI-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="7URtmlx7mKb1edq9orLI-1" vertex="1">
           <mxGeometry y="65" width="123" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="7URtmlx7mKb1edq9orLI-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.application2;fillColor=#86E83A;strokeColor=#B0F373;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" vertex="1" parent="7URtmlx7mKb1edq9orLI-1">
+        <mxCell id="7URtmlx7mKb1edq9orLI-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.application2;fillColor=#86E83A;strokeColor=#B0F373;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="7URtmlx7mKb1edq9orLI-1" vertex="1">
           <mxGeometry x="30.5" y="70" width="62" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="7URtmlx7mKb1edq9orLI-4" value="&lt;span style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;DAO 1&lt;br&gt;Contract&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7URtmlx7mKb1edq9orLI-1">
+        <mxCell id="7URtmlx7mKb1edq9orLI-4" value="&lt;span style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;DAO 1&lt;br&gt;Contract&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="7URtmlx7mKb1edq9orLI-1" vertex="1">
           <mxGeometry x="-17" y="-10" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
